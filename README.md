@@ -24,6 +24,6 @@ Hmm. I think I will need a modem. Or can I use the one that's in my current roun
 fancy designed router??
 Fun fact: logical diagram shows HOW THE DATA FLOWS while physical diagram shows WHAT IT LOOKS LIKE, ie, THE CONNECTIONS AND SUCH.
 
-
+So far I know that I need a mini-pc or sff pc, as long as it has dual nic. 
 
 
